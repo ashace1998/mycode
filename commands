@@ -44,7 +44,7 @@ start haddop by writing following commands -
 
 To start pig
 -start hadoop if not started
--pix -x local (Grunt shell will open,run pig commands in grunt shell)
+-pig -x local (Grunt shell will open,run pig commands in grunt shell)
 
 #Pig Operations
 -create file comma separated
