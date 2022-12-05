@@ -16,3 +16,10 @@ If a = 5 and b = 2 then return value = 52 – 2*5*2 + 22 = 9.
                    	 (practical 05)
 1. Write a java program to access the files from your Google drive account and read and write the file contents from your program. 
 
+Practical 06
+
+1. Write a java program using Google App Engine for checking entered number is Odd or Even.
+Project Explorer is as follows –
+
+2.Write a java program using Google App Engine for checking entered number is Prime or not.
+Project Explorer is as follows –
